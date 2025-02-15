@@ -16,4 +16,7 @@ Includes a Logout button to clear the session
 
 4. Error Handling
 Displays alerts/messages for invalid login credentials
+![](https://github.com/NouranAloui/Login-Register-System/blob/main/login.jpg)
+![](http://github.com/NouranAloui/Login-Register-System/blob/main/prof.jpg)
+![](https://github.com/NouranAloui/Login-Register-System/blob/main/sign_up.jpg)
  
