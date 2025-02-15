@@ -21,5 +21,5 @@ Displays alerts/messages for invalid login credentials
 
 ![](http://github.com/NouranAloui/Login-Register-System/blob/main/prof.jpg)
 
-![](https://github.com/NouranAloui/Login-Register-System/blob/main/sign_up.jpg)
+ 
  
